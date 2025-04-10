@@ -1,6 +1,6 @@
 {
   "name": "validate-phone-bd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate Bangladeshi phone numbers with mobile, landline, and IP phone detection.",
   "main": "dist/validate-phone-bd.cjs.js",
   "module": "dist/validate-phone-bd.esm.js",
@@ -24,6 +24,14 @@
   ],
   "author": "Aumit",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aumit/validate-phone-bd"
+  },
+  "bugs": {
+    "url": "https://github.com/aumit/validate-phone-bd/issues"
+  },
+  "homepage": "https://github.com/aumit/validate-phone-bd#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.3",
     "@rollup/plugin-node-resolve": "^16.0.1",
